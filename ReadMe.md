@@ -16,7 +16,7 @@ id: Antarctica
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./
+geojsonFolder: .// 
 markerFolder: ./
 ```
 
