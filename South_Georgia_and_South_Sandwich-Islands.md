@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -54.4 , -36.5 ] 
 
 type: Country
@@ -17,8 +17,8 @@ id: South Georgia And The South Sandwich Islands
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./South Georgia_And_The_South_Sandwich_Islands/
-markerFolder: ./South Georgia_And_The_South_Sandwich_Islands/
+geojsonFolder: ./South_Georgia_and_South_Sandwich-Islands/
+markerFolder: ./South_Georgia_and_South_Sandwich-Islands/
 ```
 
 [name-en::South Georgia And The South Sandwich Islands] 
