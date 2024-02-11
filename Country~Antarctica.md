@@ -90,10 +90,10 @@ Sub-region_Name ::  [[]] ]
 [	M49	 :: 10 ] 
 
 [	is_independent	 :: International ] 
-[	Developed_/_Developing_Countries	 ::  ] 
-[	Land_Locked_Developing_Countries_(LLDC)	 ::  ] 
-[	Least_Developed_Countries_(LDC)	 ::  ] 
-[	Small_Island_Developing_States_(SIDS)	 ::  ] 
+[	Developed_/Developing_Countries	 ::  ] 
+[	Land_Locked_Developing_Countries	 ::  ] 
+[	Least_Developed_Countries	 ::  ] 
+[	Small_Island_Developing_States	 ::  ] 
 
 [	ISO3166-1-numeric	 :: 010 ] 
 
