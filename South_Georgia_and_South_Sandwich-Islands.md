@@ -31,8 +31,10 @@ Continent:[[../Antarctica]]
 [Capital-Id::] 
 [Alcohol-l::] 
 [Language-Id::] 
-[geo-lon::] 
-[geo-lat::] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::] 
+[has_place_latitude::] 
 
 
 
