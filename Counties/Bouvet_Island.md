@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- BV
-- BVT
 - Bouvet Island
 - Isla Bouvet
 - Île Bouvet
