@@ -124,7 +124,7 @@ markerFolder: ./Bouvet_Island/
 [name-de::Bouvet Insel] 
 [Area-Total::0] 
 [Area-Land::0] 
-Continent :: [[Antarctica]]  
+Continent :: [[../../Antarctica]]  
 [VehicleCode::] 
 [Capital-Id::] 
 [Alcohol-l::] 
