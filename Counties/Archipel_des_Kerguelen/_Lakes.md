@@ -41,15 +41,17 @@ markerFolder: ./_Lakes/
 
 ## Confidential Links & Embeds: 
 
-### [_Lakes.public](/_public/\Earth\Continent\Antarctica\Counties\Archipel_des_Kerguelen_Lakes.public.md) 
+### [_Lakes](/_Standards/Earth/Continent/Antarctica/Counties/Archipel_des_Kerguelen/_Lakes.md) 
 
-### [_Lakes.internal](/_internal/\Earth\Continent\Antarctica\Counties\Archipel_des_Kerguelen_Lakes.internal.md) 
+### [_Lakes.public](/_public/Earth/Continent/Antarctica/Counties/Archipel_des_Kerguelen/_Lakes.public.md) 
 
-### [_Lakes.protect](/_protect/\Earth\Continent\Antarctica\Counties\Archipel_des_Kerguelen_Lakes.protect.md) 
+### [_Lakes.internal](/_internal/Earth/Continent/Antarctica/Counties/Archipel_des_Kerguelen/_Lakes.internal.md) 
 
-### [_Lakes.private](/_private/\Earth\Continent\Antarctica\Counties\Archipel_des_Kerguelen_Lakes.private.md) 
+### [_Lakes.protect](/_protect/Earth/Continent/Antarctica/Counties/Archipel_des_Kerguelen/_Lakes.protect.md) 
 
-### [_Lakes.personal](/_personal/\Earth\Continent\Antarctica\Counties\Archipel_des_Kerguelen_Lakes.personal.md) 
+### [_Lakes.private](/_private/Earth/Continent/Antarctica/Counties/Archipel_des_Kerguelen/_Lakes.private.md) 
 
-### [_Lakes.secret](/_secret/\Earth\Continent\Antarctica\Counties\Archipel_des_Kerguelen_Lakes.secret.md)
+### [_Lakes.personal](/_personal/Earth/Continent/Antarctica/Counties/Archipel_des_Kerguelen/_Lakes.personal.md) 
+
+### [_Lakes.secret](/_secret/Earth/Continent/Antarctica/Counties/Archipel_des_Kerguelen/_Lakes.secret.md)
 

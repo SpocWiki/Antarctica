@@ -445,15 +445,17 @@ filters:
 
 ## Confidential Links & Embeds: 
 
-### [_Antarctica-CountryDb.public](/_public/\Earth\Continent\Antarctica_Antarctica-CountryDb.public.md) 
+### [_Antarctica-CountryDb](/_Standards/Earth/Continent/Antarctica/_Antarctica-CountryDb.md) 
 
-### [_Antarctica-CountryDb.internal](/_internal/\Earth\Continent\Antarctica_Antarctica-CountryDb.internal.md) 
+### [_Antarctica-CountryDb.public](/_public/Earth/Continent/Antarctica/_Antarctica-CountryDb.public.md) 
 
-### [_Antarctica-CountryDb.protect](/_protect/\Earth\Continent\Antarctica_Antarctica-CountryDb.protect.md) 
+### [_Antarctica-CountryDb.internal](/_internal/Earth/Continent/Antarctica/_Antarctica-CountryDb.internal.md) 
 
-### [_Antarctica-CountryDb.private](/_private/\Earth\Continent\Antarctica_Antarctica-CountryDb.private.md) 
+### [_Antarctica-CountryDb.protect](/_protect/Earth/Continent/Antarctica/_Antarctica-CountryDb.protect.md) 
 
-### [_Antarctica-CountryDb.personal](/_personal/\Earth\Continent\Antarctica_Antarctica-CountryDb.personal.md) 
+### [_Antarctica-CountryDb.private](/_private/Earth/Continent/Antarctica/_Antarctica-CountryDb.private.md) 
 
-### [_Antarctica-CountryDb.secret](/_secret/\Earth\Continent\Antarctica_Antarctica-CountryDb.secret.md)
+### [_Antarctica-CountryDb.personal](/_personal/Earth/Continent/Antarctica/_Antarctica-CountryDb.personal.md) 
+
+### [_Antarctica-CountryDb.secret](/_secret/Earth/Continent/Antarctica/_Antarctica-CountryDb.secret.md)
 

@@ -27,15 +27,17 @@ markerFolder: ./
 
 ## Confidential Links & Embeds: 
 
-### [ReadMe.public](/_public/\Earth\Continent\AntarcticaReadMe.public.md) 
+### [ReadMe](/_Standards/Earth/Continent/Antarctica/ReadMe.md) 
 
-### [ReadMe.internal](/_internal/\Earth\Continent\AntarcticaReadMe.internal.md) 
+### [ReadMe.public](/_public/Earth/Continent/Antarctica/ReadMe.public.md) 
 
-### [ReadMe.protect](/_protect/\Earth\Continent\AntarcticaReadMe.protect.md) 
+### [ReadMe.internal](/_internal/Earth/Continent/Antarctica/ReadMe.internal.md) 
 
-### [ReadMe.private](/_private/\Earth\Continent\AntarcticaReadMe.private.md) 
+### [ReadMe.protect](/_protect/Earth/Continent/Antarctica/ReadMe.protect.md) 
 
-### [ReadMe.personal](/_personal/\Earth\Continent\AntarcticaReadMe.personal.md) 
+### [ReadMe.private](/_private/Earth/Continent/Antarctica/ReadMe.private.md) 
 
-### [ReadMe.secret](/_secret/\Earth\Continent\AntarcticaReadMe.secret.md)
+### [ReadMe.personal](/_personal/Earth/Continent/Antarctica/ReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/Earth/Continent/Antarctica/ReadMe.secret.md)
 

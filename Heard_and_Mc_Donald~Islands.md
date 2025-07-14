@@ -38,15 +38,17 @@ Continent :: [[../Antarctica]]
 
 ## Confidential Links & Embeds: 
 
-### [Heard_and_Mc_Donald~Islands.public](/_public/\Earth\Continent\AntarcticaHeard_and_Mc_Donald~Islands.public.md) 
+### [Heard_and_Mc_Donald~Islands](/_Standards/Earth/Continent/Antarctica/Heard_and_Mc_Donald~Islands.md) 
 
-### [Heard_and_Mc_Donald~Islands.internal](/_internal/\Earth\Continent\AntarcticaHeard_and_Mc_Donald~Islands.internal.md) 
+### [Heard_and_Mc_Donald~Islands.public](/_public/Earth/Continent/Antarctica/Heard_and_Mc_Donald~Islands.public.md) 
 
-### [Heard_and_Mc_Donald~Islands.protect](/_protect/\Earth\Continent\AntarcticaHeard_and_Mc_Donald~Islands.protect.md) 
+### [Heard_and_Mc_Donald~Islands.internal](/_internal/Earth/Continent/Antarctica/Heard_and_Mc_Donald~Islands.internal.md) 
 
-### [Heard_and_Mc_Donald~Islands.private](/_private/\Earth\Continent\AntarcticaHeard_and_Mc_Donald~Islands.private.md) 
+### [Heard_and_Mc_Donald~Islands.protect](/_protect/Earth/Continent/Antarctica/Heard_and_Mc_Donald~Islands.protect.md) 
 
-### [Heard_and_Mc_Donald~Islands.personal](/_personal/\Earth\Continent\AntarcticaHeard_and_Mc_Donald~Islands.personal.md) 
+### [Heard_and_Mc_Donald~Islands.private](/_private/Earth/Continent/Antarctica/Heard_and_Mc_Donald~Islands.private.md) 
 
-### [Heard_and_Mc_Donald~Islands.secret](/_secret/\Earth\Continent\AntarcticaHeard_and_Mc_Donald~Islands.secret.md)
+### [Heard_and_Mc_Donald~Islands.personal](/_personal/Earth/Continent/Antarctica/Heard_and_Mc_Donald~Islands.personal.md) 
+
+### [Heard_and_Mc_Donald~Islands.secret](/_secret/Earth/Continent/Antarctica/Heard_and_Mc_Donald~Islands.secret.md)
 

@@ -123,15 +123,17 @@ Continent:[[../Antarctica]]
 
 ## Confidential Links & Embeds: 
 
-### [French_Southern_Territories.public](/_public/\Earth\Continent\AntarcticaFrench_Southern_Territories.public.md) 
+### [French_Southern_Territories](/_Standards/Earth/Continent/Antarctica/French_Southern_Territories.md) 
 
-### [French_Southern_Territories.internal](/_internal/\Earth\Continent\AntarcticaFrench_Southern_Territories.internal.md) 
+### [French_Southern_Territories.public](/_public/Earth/Continent/Antarctica/French_Southern_Territories.public.md) 
 
-### [French_Southern_Territories.protect](/_protect/\Earth\Continent\AntarcticaFrench_Southern_Territories.protect.md) 
+### [French_Southern_Territories.internal](/_internal/Earth/Continent/Antarctica/French_Southern_Territories.internal.md) 
 
-### [French_Southern_Territories.private](/_private/\Earth\Continent\AntarcticaFrench_Southern_Territories.private.md) 
+### [French_Southern_Territories.protect](/_protect/Earth/Continent/Antarctica/French_Southern_Territories.protect.md) 
 
-### [French_Southern_Territories.personal](/_personal/\Earth\Continent\AntarcticaFrench_Southern_Territories.personal.md) 
+### [French_Southern_Territories.private](/_private/Earth/Continent/Antarctica/French_Southern_Territories.private.md) 
 
-### [French_Southern_Territories.secret](/_secret/\Earth\Continent\AntarcticaFrench_Southern_Territories.secret.md)
+### [French_Southern_Territories.personal](/_personal/Earth/Continent/Antarctica/French_Southern_Territories.personal.md) 
+
+### [French_Southern_Territories.secret](/_secret/Earth/Continent/Antarctica/French_Southern_Territories.secret.md)
 

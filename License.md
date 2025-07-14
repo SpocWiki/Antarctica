@@ -113,15 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License.public](/_public/\Earth\Continent\AntarcticaLicense.public.md) 
+### [License](/_Standards/Earth/Continent/Antarctica/License.md) 
 
-### [License.internal](/_internal/\Earth\Continent\AntarcticaLicense.internal.md) 
+### [License.public](/_public/Earth/Continent/Antarctica/License.public.md) 
 
-### [License.protect](/_protect/\Earth\Continent\AntarcticaLicense.protect.md) 
+### [License.internal](/_internal/Earth/Continent/Antarctica/License.internal.md) 
 
-### [License.private](/_private/\Earth\Continent\AntarcticaLicense.private.md) 
+### [License.protect](/_protect/Earth/Continent/Antarctica/License.protect.md) 
 
-### [License.personal](/_personal/\Earth\Continent\AntarcticaLicense.personal.md) 
+### [License.private](/_private/Earth/Continent/Antarctica/License.private.md) 
 
-### [License.secret](/_secret/\Earth\Continent\AntarcticaLicense.secret.md)
+### [License.personal](/_personal/Earth/Continent/Antarctica/License.personal.md) 
+
+### [License.secret](/_secret/Earth/Continent/Antarctica/License.secret.md)
 

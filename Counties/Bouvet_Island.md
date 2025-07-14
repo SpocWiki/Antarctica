@@ -137,15 +137,17 @@ Continent :: [[../../Antarctica]]
 
 ## Confidential Links & Embeds: 
 
-### [Bouvet_Island.public](/_public/\Earth\Continent\Antarctica\CountiesBouvet_Island.public.md) 
+### [Bouvet_Island](/_Standards/Earth/Continent/Antarctica/Counties/Bouvet_Island.md) 
 
-### [Bouvet_Island.internal](/_internal/\Earth\Continent\Antarctica\CountiesBouvet_Island.internal.md) 
+### [Bouvet_Island.public](/_public/Earth/Continent/Antarctica/Counties/Bouvet_Island.public.md) 
 
-### [Bouvet_Island.protect](/_protect/\Earth\Continent\Antarctica\CountiesBouvet_Island.protect.md) 
+### [Bouvet_Island.internal](/_internal/Earth/Continent/Antarctica/Counties/Bouvet_Island.internal.md) 
 
-### [Bouvet_Island.private](/_private/\Earth\Continent\Antarctica\CountiesBouvet_Island.private.md) 
+### [Bouvet_Island.protect](/_protect/Earth/Continent/Antarctica/Counties/Bouvet_Island.protect.md) 
 
-### [Bouvet_Island.personal](/_personal/\Earth\Continent\Antarctica\CountiesBouvet_Island.personal.md) 
+### [Bouvet_Island.private](/_private/Earth/Continent/Antarctica/Counties/Bouvet_Island.private.md) 
 
-### [Bouvet_Island.secret](/_secret/\Earth\Continent\Antarctica\CountiesBouvet_Island.secret.md)
+### [Bouvet_Island.personal](/_personal/Earth/Continent/Antarctica/Counties/Bouvet_Island.personal.md) 
+
+### [Bouvet_Island.secret](/_secret/Earth/Continent/Antarctica/Counties/Bouvet_Island.secret.md)
 

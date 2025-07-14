@@ -41,15 +41,17 @@ markerFolder: ./Iles_Eparses_de_l'ocean_Indien/
 
 ## Confidential Links & Embeds: 
 
-### [Iles_Eparses_de_l'ocean_Indien.public](/_public/\Earth\Continent\Antarctica\CountiesIles_Eparses_de_l'ocean_Indien.public.md) 
+### [Iles_Eparses_de_l'ocean_Indien](/_Standards/Earth/Continent/Antarctica/Counties/Iles_Eparses_de_l'ocean_Indien.md) 
 
-### [Iles_Eparses_de_l'ocean_Indien.internal](/_internal/\Earth\Continent\Antarctica\CountiesIles_Eparses_de_l'ocean_Indien.internal.md) 
+### [Iles_Eparses_de_l'ocean_Indien.public](/_public/Earth/Continent/Antarctica/Counties/Iles_Eparses_de_l'ocean_Indien.public.md) 
 
-### [Iles_Eparses_de_l'ocean_Indien.protect](/_protect/\Earth\Continent\Antarctica\CountiesIles_Eparses_de_l'ocean_Indien.protect.md) 
+### [Iles_Eparses_de_l'ocean_Indien.internal](/_internal/Earth/Continent/Antarctica/Counties/Iles_Eparses_de_l'ocean_Indien.internal.md) 
 
-### [Iles_Eparses_de_l'ocean_Indien.private](/_private/\Earth\Continent\Antarctica\CountiesIles_Eparses_de_l'ocean_Indien.private.md) 
+### [Iles_Eparses_de_l'ocean_Indien.protect](/_protect/Earth/Continent/Antarctica/Counties/Iles_Eparses_de_l'ocean_Indien.protect.md) 
 
-### [Iles_Eparses_de_l'ocean_Indien.personal](/_personal/\Earth\Continent\Antarctica\CountiesIles_Eparses_de_l'ocean_Indien.personal.md) 
+### [Iles_Eparses_de_l'ocean_Indien.private](/_private/Earth/Continent/Antarctica/Counties/Iles_Eparses_de_l'ocean_Indien.private.md) 
 
-### [Iles_Eparses_de_l'ocean_Indien.secret](/_secret/\Earth\Continent\Antarctica\CountiesIles_Eparses_de_l'ocean_Indien.secret.md)
+### [Iles_Eparses_de_l'ocean_Indien.personal](/_personal/Earth/Continent/Antarctica/Counties/Iles_Eparses_de_l'ocean_Indien.personal.md) 
+
+### [Iles_Eparses_de_l'ocean_Indien.secret](/_secret/Earth/Continent/Antarctica/Counties/Iles_Eparses_de_l'ocean_Indien.secret.md)
 

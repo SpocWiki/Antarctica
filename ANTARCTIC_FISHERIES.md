@@ -37,15 +37,17 @@ Continent:[[../Antarctica]]
 
 ## Confidential Links & Embeds: 
 
-### [ANTARCTIC_FISHERIES.public](/_public/\Earth\Continent\AntarcticaANTARCTIC_FISHERIES.public.md) 
+### [ANTARCTIC_FISHERIES](/_Standards/Earth/Continent/Antarctica/ANTARCTIC_FISHERIES.md) 
 
-### [ANTARCTIC_FISHERIES.internal](/_internal/\Earth\Continent\AntarcticaANTARCTIC_FISHERIES.internal.md) 
+### [ANTARCTIC_FISHERIES.public](/_public/Earth/Continent/Antarctica/ANTARCTIC_FISHERIES.public.md) 
 
-### [ANTARCTIC_FISHERIES.protect](/_protect/\Earth\Continent\AntarcticaANTARCTIC_FISHERIES.protect.md) 
+### [ANTARCTIC_FISHERIES.internal](/_internal/Earth/Continent/Antarctica/ANTARCTIC_FISHERIES.internal.md) 
 
-### [ANTARCTIC_FISHERIES.private](/_private/\Earth\Continent\AntarcticaANTARCTIC_FISHERIES.private.md) 
+### [ANTARCTIC_FISHERIES.protect](/_protect/Earth/Continent/Antarctica/ANTARCTIC_FISHERIES.protect.md) 
 
-### [ANTARCTIC_FISHERIES.personal](/_personal/\Earth\Continent\AntarcticaANTARCTIC_FISHERIES.personal.md) 
+### [ANTARCTIC_FISHERIES.private](/_private/Earth/Continent/Antarctica/ANTARCTIC_FISHERIES.private.md) 
 
-### [ANTARCTIC_FISHERIES.secret](/_secret/\Earth\Continent\AntarcticaANTARCTIC_FISHERIES.secret.md)
+### [ANTARCTIC_FISHERIES.personal](/_personal/Earth/Continent/Antarctica/ANTARCTIC_FISHERIES.personal.md) 
+
+### [ANTARCTIC_FISHERIES.secret](/_secret/Earth/Continent/Antarctica/ANTARCTIC_FISHERIES.secret.md)
 

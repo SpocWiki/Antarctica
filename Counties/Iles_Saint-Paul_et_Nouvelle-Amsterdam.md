@@ -41,15 +41,17 @@ markerFolder: ./Iles_Saint-Paul_et_Nouvelle-Amsterdam/
 
 ## Confidential Links & Embeds: 
 
-### [Iles_Saint-Paul_et_Nouvelle-Amsterdam.public](/_public/\Earth\Continent\Antarctica\CountiesIles_Saint-Paul_et_Nouvelle-Amsterdam.public.md) 
+### [Iles_Saint-Paul_et_Nouvelle-Amsterdam](/_Standards/Earth/Continent/Antarctica/Counties/Iles_Saint-Paul_et_Nouvelle-Amsterdam.md) 
 
-### [Iles_Saint-Paul_et_Nouvelle-Amsterdam.internal](/_internal/\Earth\Continent\Antarctica\CountiesIles_Saint-Paul_et_Nouvelle-Amsterdam.internal.md) 
+### [Iles_Saint-Paul_et_Nouvelle-Amsterdam.public](/_public/Earth/Continent/Antarctica/Counties/Iles_Saint-Paul_et_Nouvelle-Amsterdam.public.md) 
 
-### [Iles_Saint-Paul_et_Nouvelle-Amsterdam.protect](/_protect/\Earth\Continent\Antarctica\CountiesIles_Saint-Paul_et_Nouvelle-Amsterdam.protect.md) 
+### [Iles_Saint-Paul_et_Nouvelle-Amsterdam.internal](/_internal/Earth/Continent/Antarctica/Counties/Iles_Saint-Paul_et_Nouvelle-Amsterdam.internal.md) 
 
-### [Iles_Saint-Paul_et_Nouvelle-Amsterdam.private](/_private/\Earth\Continent\Antarctica\CountiesIles_Saint-Paul_et_Nouvelle-Amsterdam.private.md) 
+### [Iles_Saint-Paul_et_Nouvelle-Amsterdam.protect](/_protect/Earth/Continent/Antarctica/Counties/Iles_Saint-Paul_et_Nouvelle-Amsterdam.protect.md) 
 
-### [Iles_Saint-Paul_et_Nouvelle-Amsterdam.personal](/_personal/\Earth\Continent\Antarctica\CountiesIles_Saint-Paul_et_Nouvelle-Amsterdam.personal.md) 
+### [Iles_Saint-Paul_et_Nouvelle-Amsterdam.private](/_private/Earth/Continent/Antarctica/Counties/Iles_Saint-Paul_et_Nouvelle-Amsterdam.private.md) 
 
-### [Iles_Saint-Paul_et_Nouvelle-Amsterdam.secret](/_secret/\Earth\Continent\Antarctica\CountiesIles_Saint-Paul_et_Nouvelle-Amsterdam.secret.md)
+### [Iles_Saint-Paul_et_Nouvelle-Amsterdam.personal](/_personal/Earth/Continent/Antarctica/Counties/Iles_Saint-Paul_et_Nouvelle-Amsterdam.personal.md) 
+
+### [Iles_Saint-Paul_et_Nouvelle-Amsterdam.secret](/_secret/Earth/Continent/Antarctica/Counties/Iles_Saint-Paul_et_Nouvelle-Amsterdam.secret.md)
 

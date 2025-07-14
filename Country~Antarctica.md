@@ -126,15 +126,17 @@ Continent :: [[../Antarctica]]
 
 ## Confidential Links & Embeds: 
 
-### [Country~Antarctica.public](/_public/\Earth\Continent\AntarcticaCountry~Antarctica.public.md) 
+### [Country~Antarctica](/_Standards/Earth/Continent/Antarctica/Country~Antarctica.md) 
 
-### [Country~Antarctica.internal](/_internal/\Earth\Continent\AntarcticaCountry~Antarctica.internal.md) 
+### [Country~Antarctica.public](/_public/Earth/Continent/Antarctica/Country~Antarctica.public.md) 
 
-### [Country~Antarctica.protect](/_protect/\Earth\Continent\AntarcticaCountry~Antarctica.protect.md) 
+### [Country~Antarctica.internal](/_internal/Earth/Continent/Antarctica/Country~Antarctica.internal.md) 
 
-### [Country~Antarctica.private](/_private/\Earth\Continent\AntarcticaCountry~Antarctica.private.md) 
+### [Country~Antarctica.protect](/_protect/Earth/Continent/Antarctica/Country~Antarctica.protect.md) 
 
-### [Country~Antarctica.personal](/_personal/\Earth\Continent\AntarcticaCountry~Antarctica.personal.md) 
+### [Country~Antarctica.private](/_private/Earth/Continent/Antarctica/Country~Antarctica.private.md) 
 
-### [Country~Antarctica.secret](/_secret/\Earth\Continent\AntarcticaCountry~Antarctica.secret.md)
+### [Country~Antarctica.personal](/_personal/Earth/Continent/Antarctica/Country~Antarctica.personal.md) 
+
+### [Country~Antarctica.secret](/_secret/Earth/Continent/Antarctica/Country~Antarctica.secret.md)
 
