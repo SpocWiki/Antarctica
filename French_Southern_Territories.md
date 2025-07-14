@@ -1,4 +1,4 @@
-﻿---
+---
 type: Country
 tags:
 - geo/Country
@@ -121,12 +121,17 @@ Continent:[[../Antarctica]]
 [has_place_latitude::] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/geo/Continent/Antarctica/French_Southern_Territories|French_Southern_Territories]] 
-- [[../../../../_public/geo/Continent/Antarctica/French_Southern_Territories.public|French_Southern_Territories.public]] 
-- [[../../../../_internal/geo/Continent/Antarctica/French_Southern_Territories.internal|French_Southern_Territories.internal]] 
-- [[../../../../_protect/geo/Continent/Antarctica/French_Southern_Territories.protect|French_Southern_Territories.protect]] 
-- [[../../../../_private/geo/Continent/Antarctica/French_Southern_Territories.private|French_Southern_Territories.private]] 
-- [[../../../../_personal/geo/Continent/Antarctica/French_Southern_Territories.personal|French_Southern_Territories.personal]] 
-- [[../../../../_secret/geo/Continent/Antarctica/French_Southern_Territories.secret|French_Southern_Territories.secret]] 
+
+### [French_Southern_Territories.public](/_public/\Earth\Continent\AntarcticaFrench_Southern_Territories.public.md) 
+
+### [French_Southern_Territories.internal](/_internal/\Earth\Continent\AntarcticaFrench_Southern_Territories.internal.md) 
+
+### [French_Southern_Territories.protect](/_protect/\Earth\Continent\AntarcticaFrench_Southern_Territories.protect.md) 
+
+### [French_Southern_Territories.private](/_private/\Earth\Continent\AntarcticaFrench_Southern_Territories.private.md) 
+
+### [French_Southern_Territories.personal](/_personal/\Earth\Continent\AntarcticaFrench_Southern_Territories.personal.md) 
+
+### [French_Southern_Territories.secret](/_secret/\Earth\Continent\AntarcticaFrench_Southern_Territories.secret.md)
+

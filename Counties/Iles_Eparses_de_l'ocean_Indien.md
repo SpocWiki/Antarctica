@@ -40,11 +40,16 @@ markerFolder: ./Iles_Eparses_de_l'ocean_Indien/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/Antarctica/Counties/Iles_Eparses_de_l'ocean_Indien|Iles_Eparses_de_l'ocean_Indien]] 
-- [[../../../../../_public/geo/Continent/Antarctica/Counties/Iles_Eparses_de_l'ocean_Indien.public|Iles_Eparses_de_l'ocean_Indien.public]] 
-- [[../../../../../_internal/geo/Continent/Antarctica/Counties/Iles_Eparses_de_l'ocean_Indien.internal|Iles_Eparses_de_l'ocean_Indien.internal]] 
-- [[../../../../../_protect/geo/Continent/Antarctica/Counties/Iles_Eparses_de_l'ocean_Indien.protect|Iles_Eparses_de_l'ocean_Indien.protect]] 
-- [[../../../../../_private/geo/Continent/Antarctica/Counties/Iles_Eparses_de_l'ocean_Indien.private|Iles_Eparses_de_l'ocean_Indien.private]] 
-- [[../../../../../_personal/geo/Continent/Antarctica/Counties/Iles_Eparses_de_l'ocean_Indien.personal|Iles_Eparses_de_l'ocean_Indien.personal]] 
-- [[../../../../../_secret/geo/Continent/Antarctica/Counties/Iles_Eparses_de_l'ocean_Indien.secret|Iles_Eparses_de_l'ocean_Indien.secret]] 
+
+### [Iles_Eparses_de_l'ocean_Indien.public](/_public/\Earth\Continent\Antarctica\CountiesIles_Eparses_de_l'ocean_Indien.public.md) 
+
+### [Iles_Eparses_de_l'ocean_Indien.internal](/_internal/\Earth\Continent\Antarctica\CountiesIles_Eparses_de_l'ocean_Indien.internal.md) 
+
+### [Iles_Eparses_de_l'ocean_Indien.protect](/_protect/\Earth\Continent\Antarctica\CountiesIles_Eparses_de_l'ocean_Indien.protect.md) 
+
+### [Iles_Eparses_de_l'ocean_Indien.private](/_private/\Earth\Continent\Antarctica\CountiesIles_Eparses_de_l'ocean_Indien.private.md) 
+
+### [Iles_Eparses_de_l'ocean_Indien.personal](/_personal/\Earth\Continent\Antarctica\CountiesIles_Eparses_de_l'ocean_Indien.personal.md) 
+
+### [Iles_Eparses_de_l'ocean_Indien.secret](/_secret/\Earth\Continent\Antarctica\CountiesIles_Eparses_de_l'ocean_Indien.secret.md)
 

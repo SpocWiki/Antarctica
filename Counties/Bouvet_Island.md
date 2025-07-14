@@ -135,13 +135,17 @@ Continent :: [[../../Antarctica]]
 [has_place_latitude::-54.43] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/geo/Continent/Antarctica/Counties/Bouvet_Island|Bouvet_Island]] 
-- [[../../../../_public/geo/Continent/Antarctica/Counties/Bouvet_Island.public|Bouvet_Island.public]] 
-- [[../../../../_internal/geo/Continent/Antarctica/Counties/Bouvet_Island.internal|Bouvet_Island.internal]] 
-- [[../../../../_protect/geo/Continent/Antarctica/Counties/Bouvet_Island.protect|Bouvet_Island.protect]] 
-- [[../../../../_private/geo/Continent/Antarctica/Counties/Bouvet_Island.private|Bouvet_Island.private]] 
-- [[../../../../_personal/geo/Continent/Antarctica/Counties/Bouvet_Island.personal|Bouvet_Island.personal]] 
-- [[../../../../_secret/geo/Continent/Antarctica/Counties/Bouvet_Island.secret|Bouvet_Island.secret]] 
+
+### [Bouvet_Island.public](/_public/\Earth\Continent\Antarctica\CountiesBouvet_Island.public.md) 
+
+### [Bouvet_Island.internal](/_internal/\Earth\Continent\Antarctica\CountiesBouvet_Island.internal.md) 
+
+### [Bouvet_Island.protect](/_protect/\Earth\Continent\Antarctica\CountiesBouvet_Island.protect.md) 
+
+### [Bouvet_Island.private](/_private/\Earth\Continent\Antarctica\CountiesBouvet_Island.private.md) 
+
+### [Bouvet_Island.personal](/_personal/\Earth\Continent\Antarctica\CountiesBouvet_Island.personal.md) 
+
+### [Bouvet_Island.secret](/_secret/\Earth\Continent\Antarctica\CountiesBouvet_Island.secret.md)
 
