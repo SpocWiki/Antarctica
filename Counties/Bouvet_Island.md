@@ -1,34 +1,35 @@
 ---
 location:
-- -54.43
-- 3.38
+  - -54.43
+  - 3.38
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26856
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Bouvet Island
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Bouvet Island
-- Isla Bouvet
-- Île Bouvet
-- جزيرة بوفيت
-- 布维岛
-- Остров Буве
-- 
-Languages: [] 
+  - Bouvet Island
+  - Isla Bouvet
+  - Île Bouvet
+  - جزيرة بوفيت
+  - 布维岛
+  - Остров Буве
+  - 
+Languages: []
 ---
 
 # Bouvet_Island

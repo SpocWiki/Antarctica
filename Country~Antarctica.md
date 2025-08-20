@@ -1,32 +1,35 @@
 ---
-location: [-90, 0] 
+location:
+  - -90
+  - 0
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26834
 isDeleted: false
 isReadOnly: false
 confidential: public
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Antarctica
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Antarctica
-- Antártida
-- Antarctique
-- أنتاركتيكا
-- 南极洲
-- Антарктике
-- 
-Languages: [] 
+  - Antarctica
+  - Antártida
+  - Antarctique
+  - أنتاركتيكا
+  - 南极洲
+  - Антарктике
+  - 
+Languages: []
 ---
 
 This describes the (inofficial) Country 'Antarctica'. 
