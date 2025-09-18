@@ -101,7 +101,7 @@ Sub-region_Name ::  [[Sub-Saharan Africa]]
 ```leaflet
 id: French Southern Territories
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./French_Southern_Territories/
 markerFolder: ./French_Southern_Territories/

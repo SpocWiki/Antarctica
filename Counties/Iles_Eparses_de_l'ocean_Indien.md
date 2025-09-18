@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Iles_Eparses_de_l'ocean_Indien
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Iles_Eparses_de_l'ocean_Indien/
 markerFolder: ./Iles_Eparses_de_l'ocean_Indien/

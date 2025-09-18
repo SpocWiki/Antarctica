@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Archipel_des_Crozet
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Archipel_des_Crozet/
 markerFolder: ./Archipel_des_Crozet/

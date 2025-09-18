@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Iles_Saint-Paul_et_Nouvelle-Amsterdam
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Iles_Saint-Paul_et_Nouvelle-Amsterdam/
 markerFolder: ./Iles_Saint-Paul_et_Nouvelle-Amsterdam/
