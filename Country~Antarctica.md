@@ -1,4 +1,13 @@
 ---
+aliases:
+  - Antarctica
+  - Antártida
+  - Antarctique
+  - أنتاركتيكا
+  - 南极洲
+  - Антарктике
+  - ''
+  - Country~Antarctica
 location:
   - -90
   - 0
@@ -15,20 +24,12 @@ cssclasses:
   - Country
 publish: true
 title: Antarctica
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Antarctica
-  - Antártida
-  - Antarctique
-  - أنتاركتيكا
-  - 南极洲
-  - Антарктике
-  - 
+publishDate: ''
+expiryDate: ''
 Languages: []
 ---
 

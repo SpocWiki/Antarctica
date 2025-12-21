@@ -1,4 +1,7 @@
 ---
+aliases:
+  - _Antarctica-CityDB
+  - ' Antarctica-CityDB'
 database_plugin: basic
 ---
 

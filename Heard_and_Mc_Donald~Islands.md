@@ -1,14 +1,16 @@
 ---
-location: [ -53.1 , 73.5 ] 
-
+aliases:
+  - Heard_and_Mc_Donald~Islands
+  - Heard and Mc Donald~Islands
+location:
+  - -53.1
+  - 73.5
 type: Country
 tags:
-- geo/Country
-
+  - geo/Country
 SpocWebEntityId: 26917
 isDeleted: false
 confidential: public
-
 ---
 [ISO2::HM] 
 [ISO3::HMD] 

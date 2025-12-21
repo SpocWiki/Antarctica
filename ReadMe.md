@@ -1,9 +1,12 @@
 ---
-location: [ -77 , 66 ] 
+aliases:
+  - ReadMe
+location:
+  - -77
+  - 66
 type: Continent
 SpocWebEntityId: 27159
 confidential: public
-
 tags:
   - geo/Continent
 isDeleted: false

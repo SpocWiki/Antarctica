@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Iles_Eparses_de_l'ocean_Indien
+  - Iles Eparses de l'ocean Indien
 location:
   - -22.34
   - 40.34
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Iles_Eparses_de_l'ocean_Indien
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Iles_Eparses_de_l'ocean_Indien

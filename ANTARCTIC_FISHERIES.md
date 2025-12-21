@@ -1,13 +1,13 @@
 ---
-
+aliases:
+  - ANTARCTIC_FISHERIES
+  - ANTARCTIC FISHERIES
 type: Country
 tags:
-- geo/Country
-
+  - geo/Country
 SpocWebEntityId: 76718
 isDeleted: false
 confidential: public
-
 ---
 [ISO2::] 
 [ISO3::] 

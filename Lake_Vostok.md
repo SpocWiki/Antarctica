@@ -3,15 +3,18 @@ aliases:
   - Lake Vostok
   - озеро Восток
   - ozero Vostok
+  - Lake_Vostok
 has_id_wikidata: Q152044
-location: [-77.5, 106.0] 
-named_after: "[[_Standards/WikiData/WD~Vostok_Station,211014]]"
-different_from: "[[_Standards/WikiData/WD~Vostok,223801]]"
+location:
+  - -77.5
+  - 106.0
+named_after: '[[_Standards/WikiData/WD~Vostok_Station,211014]]'
+different_from: '[[_Standards/WikiData/WD~Vostok,223801]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~subglacial_lake,1140477]]"
-  - "[[_Standards/WikiData/WD~rift_lake,6341928]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Antarctic_Treaty_area,21590062]]"
-continent: "[[_Standards/WikiData/WD~Antarctica,51]]"
+  - '[[_Standards/WikiData/WD~subglacial_lake,1140477]]'
+  - '[[_Standards/WikiData/WD~rift_lake,6341928]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Antarctic_Treaty_area,21590062]]'
+continent: '[[_Standards/WikiData/WD~Antarctica,51]]'
 vertical_depth:
   - 1000
   - 900

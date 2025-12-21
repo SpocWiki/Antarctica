@@ -1,4 +1,7 @@
 ---
+aliases:
+  - _Antarctica-CountryDb
+  - ' Antarctica-CountryDb'
 database_plugin: basic
 ---
 

@@ -1,4 +1,13 @@
 ---
+aliases:
+  - French Southern Territories
+  - Territorio de las Tierras Australes Francesas
+  - Terres australes françaises
+  - الأراضي الفرنسية الجنوبية الجنوبية
+  - 法属南方领地
+  - Южные земли (французская заморская территория)
+  - ''
+  - French_Southern_Territories
 type: Country
 tags:
   - geo/Country
@@ -12,20 +21,12 @@ cssclasses:
   - Country
 publish: true
 title: French Southern Territories
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - French Southern Territories
-  - Territorio de las Tierras Australes Francesas
-  - Terres australes françaises
-  - الأراضي الفرنسية الجنوبية الجنوبية
-  - 法属南方领地
-  - Южные земли (французская заморская территория)
-  - 
+publishDate: ''
+expiryDate: ''
 Languages:
   - fr
 ---

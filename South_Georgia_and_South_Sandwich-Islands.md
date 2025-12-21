@@ -1,14 +1,16 @@
 ---
-location: [ -54.4 , -36.5 ] 
-
+aliases:
+  - South_Georgia_and_South_Sandwich-Islands
+  - South Georgia and South Sandwich-Islands
+location:
+  - -54.4
+  - -36.5
 type: Country
 tags:
-- geo/Country
-
+  - geo/Country
 SpocWebEntityId: 26911
 isDeleted: false
 confidential: public
-
 ---
 
 [ISO2::GS] 

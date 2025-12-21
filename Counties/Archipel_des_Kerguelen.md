@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Archipel_des_Kerguelen
+  - Archipel des Kerguelen
 location:
   - -49.2
   - 70.2
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Archipel_des_Kerguelen
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Archipel_des_Kerguelen

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Iles_Saint-Paul_et_Nouvelle-Amsterdam
+  - Iles Saint-Paul et Nouvelle-Amsterdam
 location:
   - -37.86
   - 77.54
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Iles_Saint-Paul_et_Nouvelle-Amsterdam
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Iles_Saint-Paul_et_Nouvelle-Amsterdam

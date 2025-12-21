@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Archipel_des_Crozet
+  - Archipel des Crozet
 location:
   - -46.4
   - 51.8
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Archipel_des_Crozet
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Archipel_des_Crozet
