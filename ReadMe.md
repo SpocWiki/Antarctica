@@ -11,6 +11,11 @@ tags:
   - geo/Continent
 isDeleted: false
 isReadOnly: false
+dv_name-en: Antarctica
+dv_name-de: Antarktis
+dv_#has:
+  _code: AN
+dv_has_code: AN
 ---
 
 There is also an (inofficial) [Country~Antarctica](Antarctica/Country~Antarctica)
@@ -23,24 +28,24 @@ geojsonFolder: .//
 markerFolder: ./
 ```
 
-[name-en::Antarctica]
-[name-de::Antarktis]
-[ #has/_code  :: AN ]
+name-en = `=this.dv_name-en`
+name-de = `=this.dv_name-de`
+has_code = `=this.dv_has_code`
 
 
 ## Confidential Links & Embeds: 
 
-### [ReadMe](/_Standards/Earth/Continent/Antarctica/ReadMe.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Antarctica/ReadMe|ReadMe]] 
 
-### [ReadMe.public](/_public/Earth/Continent/Antarctica/ReadMe.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Antarctica/ReadMe.public|ReadMe.public]] 
 
-### [ReadMe.internal](/_internal/Earth/Continent/Antarctica/ReadMe.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Antarctica/ReadMe.internal|ReadMe.internal]] 
 
-### [ReadMe.protect](/_protect/Earth/Continent/Antarctica/ReadMe.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Antarctica/ReadMe.protect|ReadMe.protect]] 
 
-### [ReadMe.private](/_private/Earth/Continent/Antarctica/ReadMe.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Antarctica/ReadMe.private|ReadMe.private]] 
 
-### [ReadMe.personal](/_personal/Earth/Continent/Antarctica/ReadMe.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Antarctica/ReadMe.personal|ReadMe.personal]] 
 
-### [ReadMe.secret](/_secret/Earth/Continent/Antarctica/ReadMe.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Antarctica/ReadMe.secret|ReadMe.secret]] 
 

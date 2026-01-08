@@ -6,7 +6,7 @@ aliases:
   - جزيرة بوفيت
   - 布维岛
   - Остров Буве
-  - ''
+  - ""
   - Bouvet_Island
 location:
   - -54.43
@@ -24,13 +24,60 @@ cssclasses:
   - Country
 publish: true
 title: Bouvet Island
-linkTitle: ''
-keywords: ''
-layout: ''
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate: ''
-expiryDate: ''
+publishDate: ""
+expiryDate: ""
 Languages: []
+dv_ISO4217-currency_alphabetic: NOK
+dv_ISO4217-currency_name: Norwegian Krone
+dv_ISO4217-currency_numeric: 578
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: BOUVET ISLAND
+dv_Telephone: 47
+dv_Global: true
+dv_Global_Name: World
+dv_name: Bouvet Island
+dv_name-en:
+  - Bouvet Island
+  - Bouvet Island
+dv_name-es: Isla Bouvet
+dv_name-fr: Île Bouvet
+dv_name-cn: 布维岛
+dv_name-ar: جزيرة بوفيت
+dv_name-ru: Остров Буве
+dv_CLDR_display_name: Bouvet Island
+dv_Region_Name: "[[Americas]]"
+dv_Intermediate_Region_Name: "[[South America]]"
+dv_Sub-region_Name: "[[Latin America and the Caribbean]]"
+dv_Region: 19
+dv_Intermediate_Region: 5
+dv_Sub-region: 419
+dv_Geoname-ID: 3371123
+dv_FIPS: BV
+dv_MARC: bv
+dv_GAUL: 36
+dv_WMO: BV
+dv_DS: BV
+dv_TLD: .bv
+dv_EDGAR: D4
+dv_M49: 74
+dv_is_independent: Territory of NO
+dv_Developed_:
+  Developing_Countries: Developing
+dv_ISO3166-1-numeric: 74
+dv_ISO2: BV
+dv_ISO3: BVT
+dv_name-de: Bouvet Insel
+dv_Area-Total: 0
+dv_Area-Land: 0
+dv_Continent: "[[../../Antarctica]]"
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: 3.38
+dv_has_place_latitude: -54.43
+dv_developed_developing_countries: Developing
 ---
 
 # Bouvet_Island
@@ -46,30 +93,30 @@ Languages: []
 > [Wikipedia](https://en.wikipedia.org/wiki/Bouvet%20Island)
 
 
-[	ISO4217-currency_alphabetic	 :: NOK ] 
-[	ISO4217-currency_name	 :: Norwegian Krone ] 
-[	ISO4217-currency_numeric	 :: 578 ] 
-[	ISO4217-currency_minor_unit	 :: 2 ] 
-[	ISO4217-currency_country_name	 :: BOUVET ISLAND ] 
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic` 
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name` 
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric` 
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit` 
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name` 
 
-[	Telephone	 :: 47 ] 
+Telephone = `=this.dv_Telephone` 
 
-[	Global	 :: True ] 
-[	Global_Name	 :: World ] 
+Global = `=this.dv_Global` 
+Global_Name = `=this.dv_Global_Name` 
 
-[	name	 :: Bouvet Island ] 
+name = `=this.dv_name` 
 [	name-en	 :: Bouvet Island ] 
-[	name-es	 :: Isla Bouvet ] 
-[	name-fr	 :: Île Bouvet ] 
-[	name-cn	 :: 布维岛 ] 
-[	name-ar	 :: جزيرة بوفيت ] 
-[	name-ru	 :: Остров Буве ] 
+name-es = `=this.dv_name-es` 
+name-fr = `=this.dv_name-fr` 
+name-cn = `=this.dv_name-cn` 
+name-ar = `=this.dv_name-ar` 
+name-ru = `=this.dv_name-ru` 
 
-[	CLDR_display_name	 :: Bouvet Island ] 
+CLDR_display_name = `=this.dv_CLDR_display_name` 
 
 [	UNTERM_English	 ::  ] 
-[	UNTERM_English_Formal	 ::  ] 
-[	UNTERM_Spanish_Formal	 ::  ] 
+[	UNTERM_Englis_a_ = `=this.dv_is_a_`
+[	UNTERM_Spanis_a_ = `=this.dv_is_a_`
 [	UNTERM_Spanish	 ::  ] 
 [	UNTERM_French	 ::  ] 
 [	UNTERM_Arabic	 ::  ] 
@@ -80,39 +127,39 @@ Languages: []
 [	UNTERM_Russian	 ::  ] 
 [	UNTERM_Russian_Formal	 ::  ] 
 
-Region_Name ::  [[Americas]]  
-Intermediate_Region_Name ::  [[South America]] 
-Sub-region_Name ::  [[Latin America and the Caribbean]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 19 ] 
-[	Intermediate_Region	 :: 5 ] 
-[	Sub-region	 :: 419 ] 
+Region = `=this.dv_Region` 
+Intermediate_Region = `=this.dv_Intermediate_Region` 
+Sub-region = `=this.dv_Sub-region` 
 
-[	Geoname-ID	 :: 3371123 ] 
-[	FIPS	 :: BV ] 
+Geoname-ID = `=this.dv_Geoname-ID` 
+FIPS = `=this.dv_FIPS` 
 [	FIFA	 ::  ] 
 [	IOC	 ::  ] 
-[	MARC	 :: bv ] 
-[	GAUL	 :: 36 ] 
-[	WMO	 :: BV ] 
+MARC = `=this.dv_MARC` 
+GAUL = `=this.dv_GAUL` 
+WMO = `=this.dv_WMO` 
 [	ITU	 ::  ] 
-[	DS	 :: BV ] 
-[	TLD	 :: .bv ] 
-[	EDGAR	 :: D4 ] 
-[	M49	 :: 74 ] 
+DS = `=this.dv_DS` 
+TLD = `=this.dv_TLD` 
+EDGAR = `=this.dv_EDGAR` 
+M49 = `=this.dv_M49` 
 
-[	is_independent	 :: Territory of NO ] 
-[	Developed_/Developing_Countries	 :: Developing ] 
+is_independent = `=this.dv_is_independent` 
+developed_developing_countries = `=this.dv_developed_developing_countries` 
 [	Land_Locked_Developing_Countries	 ::  ] 
 [	Least_Developed_Countries	 ::  ] 
-[	Small_Island_Developing_States	 ::  ] 
+[	Small_is_a_ = `=this.dv_is_a_`
 
-[	ISO3166-1-numeric	 :: 074 ] 
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric` 
 
 
 
-[ISO2::BV] 
-[ISO3::BVT] 
+ISO2 = `=this.dv_ISO2` 
+ISO3 = `=this.dv_ISO3` 
 ```leaflet
 id: Bouvet_Island
 zoomFeatures: true 
@@ -123,33 +170,33 @@ markerFolder: ./Bouvet_Island/
 ```
 
 [name-en::Bouvet Island] 
-[name-de::Bouvet Insel] 
-[Area-Total::0] 
-[Area-Land::0] 
-Continent :: [[../../Antarctica]]  
+name-de = `=this.dv_name-de` 
+Area-Total = `=this.dv_Area-Total` 
+Area-Land = `=this.dv_Area-Land` 
+Continent = `=this.dv_Continent`
 [VehicleCode::] 
 [Capital-Id::] 
 [Alcohol-l::] 
 [Language-Id::] 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::3.38] 
-[has_place_latitude::-54.43] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 
 
 ## Confidential Links & Embeds: 
 
-### [Bouvet_Island](/_Standards/Earth/Continent/Antarctica/Counties/Bouvet_Island.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Antarctica/Counties/Bouvet_Island|Bouvet_Island]] 
 
-### [Bouvet_Island.public](/_public/Earth/Continent/Antarctica/Counties/Bouvet_Island.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Antarctica/Counties/Bouvet_Island.public|Bouvet_Island.public]] 
 
-### [Bouvet_Island.internal](/_internal/Earth/Continent/Antarctica/Counties/Bouvet_Island.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Antarctica/Counties/Bouvet_Island.internal|Bouvet_Island.internal]] 
 
-### [Bouvet_Island.protect](/_protect/Earth/Continent/Antarctica/Counties/Bouvet_Island.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Antarctica/Counties/Bouvet_Island.protect|Bouvet_Island.protect]] 
 
-### [Bouvet_Island.private](/_private/Earth/Continent/Antarctica/Counties/Bouvet_Island.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Antarctica/Counties/Bouvet_Island.private|Bouvet_Island.private]] 
 
-### [Bouvet_Island.personal](/_personal/Earth/Continent/Antarctica/Counties/Bouvet_Island.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Antarctica/Counties/Bouvet_Island.personal|Bouvet_Island.personal]] 
 
-### [Bouvet_Island.secret](/_secret/Earth/Continent/Antarctica/Counties/Bouvet_Island.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Antarctica/Counties/Bouvet_Island.secret|Bouvet_Island.secret]] 
 

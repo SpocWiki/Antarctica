@@ -41,17 +41,17 @@ markerFolder: ./Archipel_des_Kerguelen/
 
 ## Confidential Links & Embeds: 
 
-### [Archipel_des_Kerguelen](/_Standards/Earth/Continent/Antarctica/Counties/Archipel_des_Kerguelen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Antarctica/Counties/Archipel_des_Kerguelen|Archipel_des_Kerguelen]] 
 
-### [Archipel_des_Kerguelen.public](/_public/Earth/Continent/Antarctica/Counties/Archipel_des_Kerguelen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Antarctica/Counties/Archipel_des_Kerguelen.public|Archipel_des_Kerguelen.public]] 
 
-### [Archipel_des_Kerguelen.internal](/_internal/Earth/Continent/Antarctica/Counties/Archipel_des_Kerguelen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Antarctica/Counties/Archipel_des_Kerguelen.internal|Archipel_des_Kerguelen.internal]] 
 
-### [Archipel_des_Kerguelen.protect](/_protect/Earth/Continent/Antarctica/Counties/Archipel_des_Kerguelen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Antarctica/Counties/Archipel_des_Kerguelen.protect|Archipel_des_Kerguelen.protect]] 
 
-### [Archipel_des_Kerguelen.private](/_private/Earth/Continent/Antarctica/Counties/Archipel_des_Kerguelen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Antarctica/Counties/Archipel_des_Kerguelen.private|Archipel_des_Kerguelen.private]] 
 
-### [Archipel_des_Kerguelen.personal](/_personal/Earth/Continent/Antarctica/Counties/Archipel_des_Kerguelen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Antarctica/Counties/Archipel_des_Kerguelen.personal|Archipel_des_Kerguelen.personal]] 
 
-### [Archipel_des_Kerguelen.secret](/_secret/Earth/Continent/Antarctica/Counties/Archipel_des_Kerguelen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Antarctica/Counties/Archipel_des_Kerguelen.secret|Archipel_des_Kerguelen.secret]] 
 

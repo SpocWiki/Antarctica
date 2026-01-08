@@ -2,7 +2,9 @@
 aliases:
 has_id_wikidata: Q163758
 coordinate_location: Point(-85.617222222 -78.525555555)
-location: [ -78.525555555, -85.617222222]
+location:
+  - -78.525555555
+  - -85.617222222
 part_of: "[[_Standards/WikiData/WD~Seven_Summits,208126]]"
 named_after: "[[_Standards/WikiData/WD~Carl_Vinson,1040943]]"
 instance_of:
@@ -21,11 +23,14 @@ satellite_view: http://commons.wikimedia.org/wiki/Special:FilePath/Vinson-Massif
 Commons_gallery: Vinson Massif
 Commons_category: Vinson Massif
 native_label: Vinson Massif
+dv_is_:
+  same_as: "[[../../../WikiData/WD~Vinson_Massif,163758|WD~Vinson_Massif,163758]]"
+dv_is_same_as: "[[../../../WikiData/WD~Vinson_Massif,163758|WD~Vinson_Massif,163758]]"
 ---
 
 # [[Vinson_Massif]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Vinson_Massif,163758|WD~Vinson_Massif,163758]]  
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -45,4 +50,21 @@ native_label: Vinson Massif
 > Mount Vinson is the highest peak in Antarctica, at 4,892 meters (16,050 ft). It lies in the north part of Vinson Massif's summit plateau in the south portion of the main ridge of the Sentinel Range about 2 kilometers (1+1⁄4 mi) north of Hollister Peak. It was first climbed in 1966 by an American team led by Nicholas Clinch. An expedition in 2001 was the first to climb via the Eastern route, and also took GPS measurements of the height of the peak. As of February 2010, 1,400 climbers have attempted to reach the summit of Mount Vinson. Mount Vinson is ranked 6th by topographic isolation.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Vinson%20Massif) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Antarctica/Vinson_Massif|Vinson_Massif]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Antarctica/Vinson_Massif.public|Vinson_Massif.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Antarctica/Vinson_Massif.internal|Vinson_Massif.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Antarctica/Vinson_Massif.protect|Vinson_Massif.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Antarctica/Vinson_Massif.private|Vinson_Massif.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Antarctica/Vinson_Massif.personal|Vinson_Massif.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Antarctica/Vinson_Massif.secret|Vinson_Massif.secret]] 
 

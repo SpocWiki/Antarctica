@@ -41,17 +41,17 @@ markerFolder: ./Iles_Saint-Paul_et_Nouvelle-Amsterdam/
 
 ## Confidential Links & Embeds: 
 
-### [Iles_Saint-Paul_et_Nouvelle-Amsterdam](/_Standards/Earth/Continent/Antarctica/Counties/Iles_Saint-Paul_et_Nouvelle-Amsterdam.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Antarctica/Counties/Iles_Saint-Paul_et_Nouvelle-Amsterdam|Iles_Saint-Paul_et_Nouvelle-Amsterdam]] 
 
-### [Iles_Saint-Paul_et_Nouvelle-Amsterdam.public](/_public/Earth/Continent/Antarctica/Counties/Iles_Saint-Paul_et_Nouvelle-Amsterdam.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Antarctica/Counties/Iles_Saint-Paul_et_Nouvelle-Amsterdam.public|Iles_Saint-Paul_et_Nouvelle-Amsterdam.public]] 
 
-### [Iles_Saint-Paul_et_Nouvelle-Amsterdam.internal](/_internal/Earth/Continent/Antarctica/Counties/Iles_Saint-Paul_et_Nouvelle-Amsterdam.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Antarctica/Counties/Iles_Saint-Paul_et_Nouvelle-Amsterdam.internal|Iles_Saint-Paul_et_Nouvelle-Amsterdam.internal]] 
 
-### [Iles_Saint-Paul_et_Nouvelle-Amsterdam.protect](/_protect/Earth/Continent/Antarctica/Counties/Iles_Saint-Paul_et_Nouvelle-Amsterdam.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Antarctica/Counties/Iles_Saint-Paul_et_Nouvelle-Amsterdam.protect|Iles_Saint-Paul_et_Nouvelle-Amsterdam.protect]] 
 
-### [Iles_Saint-Paul_et_Nouvelle-Amsterdam.private](/_private/Earth/Continent/Antarctica/Counties/Iles_Saint-Paul_et_Nouvelle-Amsterdam.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Antarctica/Counties/Iles_Saint-Paul_et_Nouvelle-Amsterdam.private|Iles_Saint-Paul_et_Nouvelle-Amsterdam.private]] 
 
-### [Iles_Saint-Paul_et_Nouvelle-Amsterdam.personal](/_personal/Earth/Continent/Antarctica/Counties/Iles_Saint-Paul_et_Nouvelle-Amsterdam.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Antarctica/Counties/Iles_Saint-Paul_et_Nouvelle-Amsterdam.personal|Iles_Saint-Paul_et_Nouvelle-Amsterdam.personal]] 
 
-### [Iles_Saint-Paul_et_Nouvelle-Amsterdam.secret](/_secret/Earth/Continent/Antarctica/Counties/Iles_Saint-Paul_et_Nouvelle-Amsterdam.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Antarctica/Counties/Iles_Saint-Paul_et_Nouvelle-Amsterdam.secret|Iles_Saint-Paul_et_Nouvelle-Amsterdam.secret]] 
 

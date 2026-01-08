@@ -41,17 +41,17 @@ markerFolder: ./Archipel_des_Crozet/
 
 ## Confidential Links & Embeds: 
 
-### [Archipel_des_Crozet](/_Standards/Earth/Continent/Antarctica/Counties/Archipel_des_Crozet.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Antarctica/Counties/Archipel_des_Crozet|Archipel_des_Crozet]] 
 
-### [Archipel_des_Crozet.public](/_public/Earth/Continent/Antarctica/Counties/Archipel_des_Crozet.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Antarctica/Counties/Archipel_des_Crozet.public|Archipel_des_Crozet.public]] 
 
-### [Archipel_des_Crozet.internal](/_internal/Earth/Continent/Antarctica/Counties/Archipel_des_Crozet.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Antarctica/Counties/Archipel_des_Crozet.internal|Archipel_des_Crozet.internal]] 
 
-### [Archipel_des_Crozet.protect](/_protect/Earth/Continent/Antarctica/Counties/Archipel_des_Crozet.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Antarctica/Counties/Archipel_des_Crozet.protect|Archipel_des_Crozet.protect]] 
 
-### [Archipel_des_Crozet.private](/_private/Earth/Continent/Antarctica/Counties/Archipel_des_Crozet.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Antarctica/Counties/Archipel_des_Crozet.private|Archipel_des_Crozet.private]] 
 
-### [Archipel_des_Crozet.personal](/_personal/Earth/Continent/Antarctica/Counties/Archipel_des_Crozet.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Antarctica/Counties/Archipel_des_Crozet.personal|Archipel_des_Crozet.personal]] 
 
-### [Archipel_des_Crozet.secret](/_secret/Earth/Continent/Antarctica/Counties/Archipel_des_Crozet.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Antarctica/Counties/Archipel_des_Crozet.secret|Archipel_des_Crozet.secret]] 
 

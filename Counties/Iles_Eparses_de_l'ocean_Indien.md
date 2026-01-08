@@ -41,17 +41,17 @@ markerFolder: ./Iles_Eparses_de_l'ocean_Indien/
 
 ## Confidential Links & Embeds: 
 
-### [Iles_Eparses_de_l'ocean_Indien](/_Standards/Earth/Continent/Antarctica/Counties/Iles_Eparses_de_l'ocean_Indien.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Antarctica/Counties/Iles_Eparses_de_l'ocean_Indien|Iles_Eparses_de_l'ocean_Indien]] 
 
-### [Iles_Eparses_de_l'ocean_Indien.public](/_public/Earth/Continent/Antarctica/Counties/Iles_Eparses_de_l'ocean_Indien.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Antarctica/Counties/Iles_Eparses_de_l'ocean_Indien.public|Iles_Eparses_de_l'ocean_Indien.public]] 
 
-### [Iles_Eparses_de_l'ocean_Indien.internal](/_internal/Earth/Continent/Antarctica/Counties/Iles_Eparses_de_l'ocean_Indien.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Antarctica/Counties/Iles_Eparses_de_l'ocean_Indien.internal|Iles_Eparses_de_l'ocean_Indien.internal]] 
 
-### [Iles_Eparses_de_l'ocean_Indien.protect](/_protect/Earth/Continent/Antarctica/Counties/Iles_Eparses_de_l'ocean_Indien.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Antarctica/Counties/Iles_Eparses_de_l'ocean_Indien.protect|Iles_Eparses_de_l'ocean_Indien.protect]] 
 
-### [Iles_Eparses_de_l'ocean_Indien.private](/_private/Earth/Continent/Antarctica/Counties/Iles_Eparses_de_l'ocean_Indien.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Antarctica/Counties/Iles_Eparses_de_l'ocean_Indien.private|Iles_Eparses_de_l'ocean_Indien.private]] 
 
-### [Iles_Eparses_de_l'ocean_Indien.personal](/_personal/Earth/Continent/Antarctica/Counties/Iles_Eparses_de_l'ocean_Indien.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Antarctica/Counties/Iles_Eparses_de_l'ocean_Indien.personal|Iles_Eparses_de_l'ocean_Indien.personal]] 
 
-### [Iles_Eparses_de_l'ocean_Indien.secret](/_secret/Earth/Continent/Antarctica/Counties/Iles_Eparses_de_l'ocean_Indien.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Antarctica/Counties/Iles_Eparses_de_l'ocean_Indien.secret|Iles_Eparses_de_l'ocean_Indien.secret]] 
 

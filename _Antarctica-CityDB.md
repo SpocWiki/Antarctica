@@ -346,17 +346,17 @@ filters:
 
 ## Confidential Links & Embeds: 
 
-### [_Antarctica-CityDB](/_Standards/Earth/Continent/Antarctica/_Antarctica-CityDB.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Antarctica/_Antarctica-CityDB|_Antarctica-CityDB]] 
 
-### [_Antarctica-CityDB.public](/_public/Earth/Continent/Antarctica/_Antarctica-CityDB.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Antarctica/_Antarctica-CityDB.public|_Antarctica-CityDB.public]] 
 
-### [_Antarctica-CityDB.internal](/_internal/Earth/Continent/Antarctica/_Antarctica-CityDB.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Antarctica/_Antarctica-CityDB.internal|_Antarctica-CityDB.internal]] 
 
-### [_Antarctica-CityDB.protect](/_protect/Earth/Continent/Antarctica/_Antarctica-CityDB.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Antarctica/_Antarctica-CityDB.protect|_Antarctica-CityDB.protect]] 
 
-### [_Antarctica-CityDB.private](/_private/Earth/Continent/Antarctica/_Antarctica-CityDB.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Antarctica/_Antarctica-CityDB.private|_Antarctica-CityDB.private]] 
 
-### [_Antarctica-CityDB.personal](/_personal/Earth/Continent/Antarctica/_Antarctica-CityDB.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Antarctica/_Antarctica-CityDB.personal|_Antarctica-CityDB.personal]] 
 
-### [_Antarctica-CityDB.secret](/_secret/Earth/Continent/Antarctica/_Antarctica-CityDB.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Antarctica/_Antarctica-CityDB.secret|_Antarctica-CityDB.secret]] 
 

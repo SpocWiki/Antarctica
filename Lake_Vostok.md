@@ -7,14 +7,14 @@ aliases:
 has_id_wikidata: Q152044
 location:
   - -77.5
-  - 106.0
-named_after: '[[_Standards/WikiData/WD~Vostok_Station,211014]]'
-different_from: '[[_Standards/WikiData/WD~Vostok,223801]]'
+  - 106
+named_after: "[[_Standards/WikiData/WD~Vostok_Station,211014]]"
+different_from: "[[_Standards/WikiData/WD~Vostok,223801]]"
 instance_of:
-  - '[[_Standards/WikiData/WD~subglacial_lake,1140477]]'
-  - '[[_Standards/WikiData/WD~rift_lake,6341928]]'
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Antarctic_Treaty_area,21590062]]'
-continent: '[[_Standards/WikiData/WD~Antarctica,51]]'
+  - "[[_Standards/WikiData/WD~subglacial_lake,1140477]]"
+  - "[[_Standards/WikiData/WD~rift_lake,6341928]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Antarctic_Treaty_area,21590062]]"
+continent: "[[_Standards/WikiData/WD~Antarctica,51]]"
 vertical_depth:
   - 1000
   - 900
@@ -32,11 +32,14 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Lake%20Vostok%20Sat%20
 described_at_URL: https://ansiklopedi.tubitak.gov.tr/kutup/ansiklopedi/vostok-golu
 Commons_category: Lake Vostok
 coordinate_location: Point(106.0 -77.5)
+dv_is_:
+  same_as: "[[../../../WikiData/WD~Lake_Vostok,152044]]"
+dv_is_same_as: "[[../../../WikiData/WD~Lake_Vostok,152044]]"
 ---
 
 # [[Lake_Vostok]] 
 
-#is_/same_as :: [[WD~Lake_Vostok,152044]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -65,4 +68,21 @@ markerFile: [[Lake_Vostok]]
 > On 5 February 2012, a team of Russian scientists completed the longest ever ice core of 3,768 m (12,400 ft) and pierced the ice shield to the surface of the lake. The first core of freshly frozen lake ice was obtained on 10 January 2013 at a depth of 3,406 m (11,175 ft). However, as soon as the ice was pierced, water from the underlying lake gushed up the borehole, mixing it with the Freon and kerosene used to keep the borehole from freezing. It is hypothesized that unusual forms of life could be found in the lake's liquid layer, a fossil water reserve. The drilling project has been opposed by some environmental groups and scientists who have argued that hot-water drilling would have a more limited environmental impact.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lake%20Vostok) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Antarctica/Lake_Vostok|Lake_Vostok]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Antarctica/Lake_Vostok.public|Lake_Vostok.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Antarctica/Lake_Vostok.internal|Lake_Vostok.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Antarctica/Lake_Vostok.protect|Lake_Vostok.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Antarctica/Lake_Vostok.private|Lake_Vostok.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Antarctica/Lake_Vostok.personal|Lake_Vostok.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Antarctica/Lake_Vostok.secret|Lake_Vostok.secret]] 
 

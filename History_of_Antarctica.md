@@ -8,11 +8,14 @@ facet_of: "[[_Standards/WikiData/WD~Antarctica,51]]"
 Dewey_Decimal_Classification: "998"
 Commons_category: History of Antarctica
 coordinate_location: Point(-2.247222222 -69.357777777)
+dv_is_:
+  same_as: "[[../../../WikiData/WD~History_of_Antarctica,722537|WD~History_of_Antarctica,722537]]"
+dv_is_same_as: "[[../../../WikiData/WD~History_of_Antarctica,722537|WD~History_of_Antarctica,722537]]"
 ---
 
 # [[History_of_Antarctica]] 
 
-#is_/same_as :: [[WikiData/WD~History_of_Antarctica,722537|WD~History_of_Antarctica,722537]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -34,4 +37,21 @@ coordinate_location: Point(-2.247222222 -69.357777777)
 > Several expeditions attempted to reach the South Pole in the early 20th century, during the "Heroic Age of Antarctic Exploration". Many resulted in injury and death. Norwegian Roald Amundsen finally reached the Pole on 14 December 1911, following a dramatic race with the Briton Robert Falcon Scott.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Antarctica) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Antarctica/History_of_Antarctica|History_of_Antarctica]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Antarctica/History_of_Antarctica.public|History_of_Antarctica.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Antarctica/History_of_Antarctica.internal|History_of_Antarctica.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Antarctica/History_of_Antarctica.protect|History_of_Antarctica.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Antarctica/History_of_Antarctica.private|History_of_Antarctica.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Antarctica/History_of_Antarctica.personal|History_of_Antarctica.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Antarctica/History_of_Antarctica.secret|History_of_Antarctica.secret]] 
 

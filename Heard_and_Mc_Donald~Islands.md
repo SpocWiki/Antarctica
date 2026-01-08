@@ -11,9 +11,17 @@ tags:
 SpocWebEntityId: 26917
 isDeleted: false
 confidential: public
+dv_ISO2: HM
+dv_ISO3: HMD
+dv_name-en: Heard And Mc Donald Islands
+dv_name-de: Heard und McDonald Inseln
+dv_Area-Total: 0
+dv_Area-Land: 0
+dv_Continent: "[[../Antarctica]]"
+dv_is_a_: "[[../../Geography/Place]]"
 ---
-[ISO2::HM] 
-[ISO3::HMD] 
+ISO2 = `=this.dv_ISO2` 
+ISO3 = `=this.dv_ISO3` 
 ```leaflet
 id: Heard And Mc Donald Islands
 zoomFeatures: true 
@@ -23,34 +31,34 @@ geojsonFolder: ./Heard_and_Mc_Donald~Islands/
 markerFolder: ./Heard_and_Mc_Donald~Islands/
 ```
 
-[name-en::Heard And Mc Donald Islands] 
-[name-de::Heard und McDonald Inseln] 
-[Area-Total::0] 
-[Area-Land::0] 
-Continent :: [[../Antarctica]]  
+name-en = `=this.dv_name-en` 
+name-de = `=this.dv_name-de` 
+Area-Total = `=this.dv_Area-Total` 
+Area-Land = `=this.dv_Area-Land` 
+Continent = `=this.dv_Continent`
 [VehicleCode::] 
 [Capital-Id::] 
 [Alcohol-l::] 
 [Language-Id::] 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+is_a_ = `=this.dv_is_a_`
 [has_place_longitude::] 
 [has_place_latitude::] 
 
 
 ## Confidential Links & Embeds: 
 
-### [Heard_and_Mc_Donald~Islands](/_Standards/Earth/Continent/Antarctica/Heard_and_Mc_Donald~Islands.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Antarctica/Heard_and_Mc_Donald~Islands|Heard_and_Mc_Donald~Islands]] 
 
-### [Heard_and_Mc_Donald~Islands.public](/_public/Earth/Continent/Antarctica/Heard_and_Mc_Donald~Islands.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Antarctica/Heard_and_Mc_Donald~Islands.public|Heard_and_Mc_Donald~Islands.public]] 
 
-### [Heard_and_Mc_Donald~Islands.internal](/_internal/Earth/Continent/Antarctica/Heard_and_Mc_Donald~Islands.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Antarctica/Heard_and_Mc_Donald~Islands.internal|Heard_and_Mc_Donald~Islands.internal]] 
 
-### [Heard_and_Mc_Donald~Islands.protect](/_protect/Earth/Continent/Antarctica/Heard_and_Mc_Donald~Islands.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Antarctica/Heard_and_Mc_Donald~Islands.protect|Heard_and_Mc_Donald~Islands.protect]] 
 
-### [Heard_and_Mc_Donald~Islands.private](/_private/Earth/Continent/Antarctica/Heard_and_Mc_Donald~Islands.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Antarctica/Heard_and_Mc_Donald~Islands.private|Heard_and_Mc_Donald~Islands.private]] 
 
-### [Heard_and_Mc_Donald~Islands.personal](/_personal/Earth/Continent/Antarctica/Heard_and_Mc_Donald~Islands.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Antarctica/Heard_and_Mc_Donald~Islands.personal|Heard_and_Mc_Donald~Islands.personal]] 
 
-### [Heard_and_Mc_Donald~Islands.secret](/_secret/Earth/Continent/Antarctica/Heard_and_Mc_Donald~Islands.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Antarctica/Heard_and_Mc_Donald~Islands.secret|Heard_and_Mc_Donald~Islands.secret]] 
 
