@@ -36,15 +36,13 @@ dv_ISO4217-currency_country_name: ANTARCTICA
 dv_Telephone: 672
 dv_Global: true
 dv_Global_Name: World
-dv_name: Antarctica
-dv_name-en:
-  - Antarctica
-  - Antarctica
-dv_name-es: Antártida
-dv_name-fr: Antarctique
-dv_name-cn: 南极洲
-dv_name-ar: أنتاركتيكا
-dv_name-ru: Антарктике
+dv_has_name_: Antarctica
+dv_has_name_en: Antarctica
+dv_has_name_es: Antártida
+dv_has_name_fr: Antarctique
+dv_has_name_cn: 南极洲
+dv_has_name_ar: أنتاركتيكا
+dv_has_name_ru: Антарктике
 dv_CLDR_display_name: Antarctica
 dv_Region_Name: "[[Country~Antarctica]]"
 dv_Intermediate_Region_Name: "[[Country~Antarctica]]"
@@ -63,7 +61,7 @@ dv_Developed_: {}
 dv_ISO3166-1-numeric: 10
 dv_ISO2: AQ
 dv_ISO3: ATA
-dv_name-de: Antarktis
+dv_has_name_de: Antarktis
 dv_Area-Total: 0
 dv_Area-Land: 0
 dv_Continent: "[[../Antarctica]]"
@@ -86,12 +84,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: Antarctica ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: Antarctica ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -151,8 +149,8 @@ geojsonFolder: ./Antarctica/
 markerFolder: ./Antarctica/
 ```
 
-[name-en::Antarctica] 
-name-de = `=this.dv_name-de` 
+[has_name_en::Antarctica] 
+has_name_de = `=this.dv_has_name_de` 
 Area-Total = `=this.dv_Area-Total` 
 Area-Land = `=this.dv_Area-Land` 
 Continent = `=this.dv_Continent`

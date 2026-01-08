@@ -39,15 +39,15 @@ dv_ISO4217-currency_country_name: BOUVET ISLAND
 dv_Telephone: 47
 dv_Global: true
 dv_Global_Name: World
-dv_name: Bouvet Island
-dv_name-en:
+dv_has_name_: Bouvet Island
+dv_has_name_en:
   - Bouvet Island
   - Bouvet Island
-dv_name-es: Isla Bouvet
-dv_name-fr: Île Bouvet
-dv_name-cn: 布维岛
-dv_name-ar: جزيرة بوفيت
-dv_name-ru: Остров Буве
+dv_has_name_es: Isla Bouvet
+dv_has_name_fr: Île Bouvet
+dv_has_name_cn: 布维岛
+dv_has_name_ar: جزيرة بوفيت
+dv_has_name_ru: Остров Буве
 dv_CLDR_display_name: Bouvet Island
 dv_Region_Name: "[[Americas]]"
 dv_Intermediate_Region_Name: "[[South America]]"
@@ -70,7 +70,7 @@ dv_Developed_:
 dv_ISO3166-1-numeric: 74
 dv_ISO2: BV
 dv_ISO3: BVT
-dv_name-de: Bouvet Insel
+dv_has_name_de: Bouvet Insel
 dv_Area-Total: 0
 dv_Area-Land: 0
 dv_Continent: "[[../../Antarctica]]"
@@ -105,12 +105,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: Bouvet Island ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: Bouvet Island ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -169,8 +169,8 @@ geojsonFolder: ./Bouvet_Island/
 markerFolder: ./Bouvet_Island/
 ```
 
-[name-en::Bouvet Island] 
-name-de = `=this.dv_name-de` 
+[has_name_en::Bouvet Island] 
+has_name_de = `=this.dv_has_name_de` 
 Area-Total = `=this.dv_Area-Total` 
 Area-Land = `=this.dv_Area-Land` 
 Continent = `=this.dv_Continent`

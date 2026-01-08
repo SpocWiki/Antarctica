@@ -11,8 +11,8 @@ tags:
   - geo/Continent
 isDeleted: false
 isReadOnly: false
-dv_name-en: Antarctica
-dv_name-de: Antarktis
+dv_has_name_en: Antarctica
+dv_has_name_de: Antarktis
 dv_#has:
   _code: AN
 dv_has_code: AN
@@ -28,8 +28,8 @@ geojsonFolder: .//
 markerFolder: ./
 ```
 
-name-en = `=this.dv_name-en`
-name-de = `=this.dv_name-de`
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
 has_code = `=this.dv_has_code`
 
 

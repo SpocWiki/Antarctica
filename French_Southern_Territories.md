@@ -37,15 +37,15 @@ dv_ISO4217-currency_country_name: FRENCH SOUTHERN TERRITORIES
 dv_Telephone: 262
 dv_Global: true
 dv_Global_Name: World
-dv_name: French Southern Territories
-dv_name-en:
+dv_has_name_: French Southern Territories
+dv_has_name_en:
   - French Southern Territories
   - French Southern Territories
-dv_name-es: Territorio de las Tierras Australes Francesas
-dv_name-fr: Terres australes françaises
-dv_name-cn: 法属南方领地
-dv_name-ar: الأراضي الفرنسية الجنوبية الجنوبية
-dv_name-ru: Южные земли (французская заморская территория)
+dv_has_name_es: Territorio de las Tierras Australes Francesas
+dv_has_name_fr: Terres australes françaises
+dv_has_name_cn: 法属南方领地
+dv_has_name_ar: الأراضي الفرنسية الجنوبية الجنوبية
+dv_has_name_ru: Южные земли (французская заморская территория)
 dv_CLDR_display_name: French Southern Territories
 dv_Region_Name: "[[../Africa]]"
 dv_Intermediate_Region_Name: "[[Eastern Africa]]"
@@ -67,7 +67,7 @@ dv_Developed_:
 dv_ISO3166-1-numeric: 260
 dv_ISO2: TF
 dv_ISO3: ATF
-dv_name-de: Französische südliche Territorien
+dv_has_name_de: Französische südliche Territorien
 dv_Area-Total: 0
 dv_Area-Land: 0
 dv_is_a_: "[[../../Geography/Place]]"
@@ -87,12 +87,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: French Southern Territories ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: French Southern Territories ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -151,8 +151,8 @@ geojsonFolder: ./French_Southern_Territories/
 markerFolder: ./French_Southern_Territories/
 ```
 
-[name-en::French Southern Territories] 
-name-de = `=this.dv_name-de` 
+[has_name_en::French Southern Territories] 
+has_name_de = `=this.dv_has_name_de` 
 Area-Total = `=this.dv_Area-Total` 
 Area-Land = `=this.dv_Area-Land` 
 Continent:[[../Antarctica]]  

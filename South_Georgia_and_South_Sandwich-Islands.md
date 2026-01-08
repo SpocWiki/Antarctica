@@ -13,8 +13,8 @@ isDeleted: false
 confidential: public
 dv_ISO2: GS
 dv_ISO3: SGS
-dv_name-en: South Georgia And The South Sandwich Islands
-dv_name-de: Sandwich Inseln
+dv_has_name_en: South Georgia And The South Sandwich Islands
+dv_has_name_de: Sandwich Inseln
 dv_Area-Total: 0
 dv_Area-Land: 0
 dv_is_a_: "[[../../Geography/Place]]"
@@ -31,8 +31,8 @@ geojsonFolder: ./South_Georgia_and_South_Sandwich-Islands/
 markerFolder: ./South_Georgia_and_South_Sandwich-Islands/
 ```
 
-name-en = `=this.dv_name-en` 
-name-de = `=this.dv_name-de` 
+has_name_en = `=this.dv_has_name_en` 
+has_name_de = `=this.dv_has_name_de` 
 Area-Total = `=this.dv_Area-Total` 
 Area-Land = `=this.dv_Area-Land` 
 Continent:[[../Antarctica]]  

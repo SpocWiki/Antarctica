@@ -13,8 +13,8 @@ isDeleted: false
 confidential: public
 dv_ISO2: HM
 dv_ISO3: HMD
-dv_name-en: Heard And Mc Donald Islands
-dv_name-de: Heard und McDonald Inseln
+dv_has_name_en: Heard And Mc Donald Islands
+dv_has_name_de: Heard und McDonald Inseln
 dv_Area-Total: 0
 dv_Area-Land: 0
 dv_Continent: "[[../Antarctica]]"
@@ -31,8 +31,8 @@ geojsonFolder: ./Heard_and_Mc_Donald~Islands/
 markerFolder: ./Heard_and_Mc_Donald~Islands/
 ```
 
-name-en = `=this.dv_name-en` 
-name-de = `=this.dv_name-de` 
+has_name_en = `=this.dv_has_name_en` 
+has_name_de = `=this.dv_has_name_de` 
 Area-Total = `=this.dv_Area-Total` 
 Area-Land = `=this.dv_Area-Land` 
 Continent = `=this.dv_Continent`

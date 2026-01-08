@@ -8,8 +8,8 @@ tags:
 SpocWebEntityId: 76718
 isDeleted: false
 confidential: public
-dv_name-en: ANTARCTIC FISHERIES
-dv_name-de: Antarktische Fischgebiete
+dv_has_name_en: ANTARCTIC FISHERIES
+dv_has_name_de: Antarktische Fischgebiete
 dv_is_a_: "[[../../Geography/Place]]"
 ---
 [ISO2::] 
@@ -23,8 +23,8 @@ geojsonFolder: ./ANTARCTIC_FISHERIES/
 markerFolder: ./ANTARCTIC_FISHERIES/
 ```
 
-name-en = `=this.dv_name-en` 
-name-de = `=this.dv_name-de` 
+has_name_en = `=this.dv_has_name_en` 
+has_name_de = `=this.dv_has_name_de` 
 [Area-Total::] 
 [Area-Land::] 
 Continent:[[../Antarctica]]  
