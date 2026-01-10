@@ -36,7 +36,7 @@ dv_ISO4217-currency_country_name: ANTARCTICA
 dv_Telephone: 672
 dv_Global: true
 dv_Global_Name: World
-dv_has_name_: Antarctica
+dv_has_name: Antarctica
 dv_has_name_en: Antarctica
 dv_has_name_es: Antártida
 dv_has_name_fr: Antarctique
@@ -83,7 +83,7 @@ Telephone = `=this.dv_Telephone`
 Global = `=this.dv_Global` 
 Global_Name = `=this.dv_Global_Name` 
 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 [	has_name_en	 :: Antarctica ] 
 has_name_es = `=this.dv_has_name_es` 
 has_name_fr = `=this.dv_has_name_fr` 
