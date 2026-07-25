@@ -173,7 +173,7 @@ demonym:
   - Antartiku
   - Antartiko
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[/_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878|WD~Yuzhakov_Big_Encyclopedia,4091878]]"
   - "[[/_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490|WD~1922_Encyclopædia_Britannica,15987490]]"
   - "[[/_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
@@ -549,7 +549,7 @@ dv_has_name_en: Antarctica
 dv_has_name_de: Antarktis
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Antarctica,51|WD~Antarctica,51]]"
+    - "[[../../../WikiData/WD~Antarctica,51|WD~Antarctica,51]]"
     - "[[/_Standards/Earth/Continent/Antarctica|Antarctica]]"
     - "[[/_public/Earth/Continent/Antarctica.public|Antarctica.public]]"
     - "[[/_internal/Earth/Continent/Antarctica.internal|Antarctica.internal]]"
@@ -560,7 +560,7 @@ dv_is_:
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Antarctica
 dv_has_code: AN
 dv_is_same_as:
-  - "[[../../WikiData/WD~Antarctica,51|WD~Antarctica,51]]"
+  - "[[../../../WikiData/WD~Antarctica,51|WD~Antarctica,51]]"
   - "[[/_Standards/Earth/Continent/Antarctica|Antarctica]]"
   - "[[/_public/Earth/Continent/Antarctica.public|Antarctica.public]]"
   - "[[/_internal/Earth/Continent/Antarctica.internal|Antarctica.internal]]"
@@ -575,9 +575,9 @@ dv_is_same_as:
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Antarctica/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
-There is also an (inofficial) [Country~Antarctica](Antarctica/Country~Antarctica) 
+There is also an (inofficial) [Country~Antarctica](Country~Antarctica) 
 
 ## #has_/map 
 
@@ -594,7 +594,7 @@ has_name_en = `=this.dv_has_name_en`
 has_name_de = `=this.dv_has_name_de`
 has_code = `=this.dv_has_code`
 
-#is_/same_as :: [[../../WikiData/WD~Antarctica,51|WD~Antarctica,51]] 
+#is_/same_as :: [[../../../WikiData/WD~Antarctica,51|WD~Antarctica,51]] 
 
 ## #has_/text_of_/abstract 
 
